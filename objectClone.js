@@ -34,7 +34,5 @@ function cloneObject(obj) {
     }
     return temp;
 }
-
 var clonedObject = cloneObject(object1);
-
 console.log(clonedObject);
